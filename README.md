@@ -5,5 +5,5 @@ You can create web pages easily with bootstrap designer.But it just an example o
 I made it in 2 hours, so it has some bugs.
 
 
-#Türkçe
+# Türkçe
 Bootstap designer adını verdiğim bu programcıkta sürükle bırak tekniği ile bootstrap 4 web sayfalarını kolaylıkla oluşturabilirsiniz ve kaynak kodunu alabilirsiniz.İşleri hızlandırmak amaçlı hazırlanmış basit bir programdır, 2 saat içinde yapıldı ve bazı hataları vardır.Şuanda sayılı bootstrap özelliğini desteklemektedir.
